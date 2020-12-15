@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scala.Lussen.Wpf", "Scala.Lussen.Wpf\Scala.Lussen.Wpf.csproj", "{7F677F61-24D7-42C9-92A6-DBAF7DF3C874}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F677F61-24D7-42C9-92A6-DBAF7DF3C874}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F677F61-24D7-42C9-92A6-DBAF7DF3C874}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F677F61-24D7-42C9-92A6-DBAF7DF3C874}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F677F61-24D7-42C9-92A6-DBAF7DF3C874}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED543C0A-58BA-451B-8765-5818E8835AA8}
+	EndGlobalSection
+EndGlobal
